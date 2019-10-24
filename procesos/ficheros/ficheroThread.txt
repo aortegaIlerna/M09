@@ -1,0 +1,1 @@
+La clase Thread nos impide extender otra clase 
